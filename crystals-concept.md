@@ -36,7 +36,7 @@
 
 ### General Concept Info:
 
-| **IRI:** | xxxyyy |
+| **IRI:** | 12345 |
 | --- | --- |
 | **OWL Type:** | Property |
 | **Concept Elucidation:** | A material has this property if, when illuminated with radiation, diffraction peaks appear in certain directions. |
