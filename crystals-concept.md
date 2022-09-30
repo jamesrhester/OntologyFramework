@@ -34,6 +34,14 @@
 | **Concept Elucidation:** | An infinite array of atoms ordered into a periodic array governed by the rules of translational symmetry |
 | **Labels:** | Preferred: "infinite crystal"; alternative "crystal" |
 
+### General Concept Info:
+
+| **IRI:** | xxxyyy |
+| --- | --- |
+| **OWL Type:** | Property |
+| **Concept Elucidation:** | A material has this property if, when illuminated with radiation, diffraction peaks appear in certain directions. |
+| **Labels:** | Preferred: "crystalline" |
+
 ### Knowledge Domain Resources:
 
 |                               |                                                                                                                                          |
