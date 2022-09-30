@@ -1,22 +1,45 @@
 
-# NEW CONCEPT _name_<sup>[1](#1)</sup>
+# NEW CONCEPT _name_<sup>[1]Crystal</sup>
 
-_(use the preferred label, or IRI name, provided in the first table as title)_
 
 ### General Concept Info:
 
-| **IRI:** | _Suggested entity new IRI._ |
+| **IRI:** | xyz-123 |
 | --- | --- |
-| **OWL Type:** | _Class|ObjectProperty|Individual._ |
-| **Concept Elucidation:** | _Natural language definition of the concept (elucidation). Here the concept that we want to introduce is expressed as precisely as possible, making references to knowledge domain resources, including instance and usage examples when relevant._ |
-| **Labels:** | _Labels used to address the concept, ordered as: i) preferred (one) (the label to primarily used to shortly refer to the concept) ii) alternative (multiple) (labels that are commonly used to address the concept in practice, even if they are used with narrower of wider sense) iii) deprecated (multiple) (labels that are misleading with respect to the concept, because of misuse, ambiguity or too wide meaning)._ |
+| **OWL Type:** |Class (I guess) |
+| **Concept Elucidation:** | A long-range, finite, ordered arrangement of atoms into a periodic array governed by the rules of translational symmetry. |
+| **Labels:** | Preferred: "ideal crystal"; alternative "direct-space crystal" "crystal" |
+
+### General Concept Info:
+
+| **IRI:** | arxjfb-234 |
+| --- | --- |
+| **OWL Type:** |Class (I guess) |
+| **Concept Elucidation:** | A long-range, ordered arrangement of atoms that is not a periodic array in three dimensions but where the ordering follows particular mathematical rules. |
+| **Labels:** | Preferred: "aperiodic crystal"; alternative "quasicrystal" |
+
+### General Concept Info:
+
+| **IRI:** | mnop-fdsf |
+| --- | --- |
+| **OWL Type:** |Class (I guess) |
+| **Concept Elucidation:** | A long-range arrangement of atoms that are ordered in less than 3 dimensions. |
+| **Labels:** | Preferred: "low-dimensional crystal" |
+
+### General Concept Info:
+
+| **IRI:** | xxxyyy |
+| --- | --- |
+| **OWL Type:** |Class (I guess) |
+| **Concept Elucidation:** | An infinite array of atoms ordered into a periodic array governed by the rules of translational symmetry |
+| **Labels:** | Preferred: "infinite crystal"; alternative "crystal" |
 
 ### Knowledge Domain Resources:
 
-|     |     |
-| --- | --- |
-| **Related Domain Resources:** | _Existing domain resources (e.g. standards, books, articles, dictionaries) that defines or are related to the concept (provide reference to the resource and quote the relevant informational content). More than one resource can be reported. These resources are aimed to support the choice of the above concept choice and elucidation._ |
-| **Comments:** | _Explain the motivations behind the concept definition with reference to the domain resources, underlying similarities and differences._ |
+|                               |                                                                                                                                          |
+| ---                           | ---                                                                                                                                      |
+| **Related Domain Resources:** | dictionary.iucr.org/crystal: historical, reciprocal and direct space definitions. Expert discussions also raised the issue of different dimensionality crystals, quasicrystals and so on.                    |
+| **Comments:**                 | In some applications assumption of an unbounded lattice are appropriate, in others the finiteness is important. In others the appearance is sufficient, in others getting diffraction spots is important.  |
 
 ### Alignments To Existing Ontologies:
 
